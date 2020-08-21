@@ -30,3 +30,6 @@ Making a list
 - [ ] Learn github.
 
 Let's try again :wink:
+
+And now we're going to try how to ignore the markdown format
+\**this should be in bold\
