@@ -34,4 +34,4 @@ Let's try again :wink:
 And now we're going to try how to ignore the markdown format
 \**this should be in bold** 
 
-And it's not :point_up_2:
+And it's not :point_up_2: no idea though why is in italic :grimacing:
