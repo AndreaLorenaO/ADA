@@ -32,4 +32,6 @@ Making a list
 Let's try again :wink:
 
 And now we're going to try how to ignore the markdown format
-\**this should be in bold\
+\**this should be in bold** 
+
+And it's not :point_up_2:
