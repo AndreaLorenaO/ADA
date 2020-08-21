@@ -25,6 +25,8 @@
      - Third line
      
 Making a list
-- [] Buy groceries
-- [] Hit the gym
-- [] Learn github
+- [ ] Buy groceries
+- [ ] Hit the gym
+- [ ] Learn github.
+
+How about if I enter a :heart
