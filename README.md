@@ -35,3 +35,5 @@ And now we're going to try how to ignore the markdown format
 \**this should be in bold** 
 
 And it's not :point_up_2: no idea though why is in italic :grimacing:
+
+Esto es una prueba de git fetch, git pull, git add. , git status, git commit
