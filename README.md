@@ -1,8 +1,8 @@
 # ADA
 
-##Primer proyecto git en Ada
+## Primer proyecto git en Ada
 
-###Hoy conoci gifHub y lo que es readme :)
+### Hoy conoci gifHub y lo que es readme :)
 
 
 **Lo siguiente es una prueba de quote**
